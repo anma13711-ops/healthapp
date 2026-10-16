@@ -1,1 +1,3 @@
-API_URL = "https://api.healthapp.com/patients"
+API_BASE = "https://api.healthapp.com"
+LOGIN_ENDPOINT = "/login"
+PATIENTS_ENDPOINT = "/patients"
